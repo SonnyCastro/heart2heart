@@ -1,6 +1,6 @@
 # Heart 2 Heart
 
-Visit the deployed site [here](https://heart-to-heart.herokuapp.com/)!
+Visit the deployed site [here](https://heart--2--heart.herokuapp.com/)!
 
 - [Intro](#intro)
 - [Tech Used](#tech-used)
